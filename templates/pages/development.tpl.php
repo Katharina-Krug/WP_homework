@@ -1,0 +1,7 @@
+<h2>Building Bridges. Development Cooperation</h2>
+<p>More than 65 years of project management experience and a track record of more than 10,000 successfully implemented programmes and projects worldwide demonstrate the IB’s know-how in project design, project implementation, monitoring and evaluation. This experience has enabled the IB to gain sound recognition as a reliable partner of bilateral and multilateral cooperation and donor agencies such as the European Union (EU), the German Federal Ministry for Economic Cooperation and Development (BMZ), the Swiss Agency for Development and Cooperation (SDC), the German Federal Ministry of Education and Research (BMBF), the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) or the World Bank. The IB is currently present in education, training and social development markets in Central and Eastern Europe, the Middle East, Northern Africa and Asia (e.g. Belgium, Poland, Turkey, The People‘s Republic of China, and Georgia). With its subsidiaries abroad it offers service provision and consulting services in all sectors of its expertise. Since 2010 IB integrates young adults from countries with a high unemployment rate into work in Germany mostly in the health care sector. 2000 young people have been employeed by institutions located in Germany.</p>
+<video width="560" height="315" controls>
+  <source src="./images/IBMovie.mp4" type="video/mp4">
+  <source src="IBMovie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
